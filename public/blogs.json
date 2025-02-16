@@ -4,7 +4,7 @@
     "cover": "https://i.ibb.co/wF7Pz5Rh/pexels-alexis-b-1699196-30613415.jpg",
     "title": "Mastering React Native",
     "author": "John Doe",
-    "author_img": "https://source.unsplash.com/50x50/?man,portrait",
+    "author_img": "../src/images/boy1.png",
     "posted_date": "2025-02-10",
     "reading_time": 8,
     "hashtags": ["#ReactNative", "#MobileDev", "#JavaScript"]
@@ -14,7 +14,7 @@
     "cover": "https://i.ibb.co/bDsd9XJ/pexels-catalina-chiaravalle-301811330-13493217.jpg",
     "title": "The Future of AI in Development",
     "author": "Jane Smith",
-    "author_img": "https://source.unsplash.com/50x50/?woman,portrait",
+    "author_img": "../src/images/boy2.png",
     "posted_date": "2025-02-12",
     "reading_time": 10,
     "hashtags": ["#AI", "#MachineLearning", "#TechTrends"]
@@ -24,7 +24,7 @@
     "cover": "https://i.ibb.co/tTWsqHc6/pexels-chuck-2915098.jpg",
     "title": "Building Scalable Backend Systems",
     "author": "Robert Johnson",
-    "author_img": "https://source.unsplash.com/50x50/?man,face",
+    "author_img": "../src/images/girl1.jpg",
     "posted_date": "2025-02-14",
     "reading_time": 12,
     "hashtags": ["#Backend", "#Scalability", "#NodeJS"]
@@ -34,7 +34,7 @@
     "cover": "https://i.ibb.co/4wBdqr5m/pexels-clickerhappy-1005332.jpg",
     "title": "UI/UX Design Principles for Beginners",
     "author": "Emily Davis",
-    "author_img": "https://source.unsplash.com/50x50/?woman,face",
+    "author_img": "../src/images/girl2.jpg",
     "posted_date": "2025-02-15",
     "reading_time": 7,
     "hashtags": ["#UIUX", "#Design", "#UserExperience"]
@@ -44,7 +44,7 @@
     "cover": "https://i.ibb.co/mFHm8TSt/pexels-indraprojectsofficial-28549352.jpg",
     "title": "Getting Started with Cloud Computing",
     "author": "Michael Brown",
-    "author_img": "https://source.unsplash.com/50x50/?man,tech",
+    "author_img": "../src/images/girl2.jpg",
     "posted_date": "2025-02-16",
     "reading_time": 9,
     "hashtags": ["#CloudComputing", "#AWS", "#DevOps"]
@@ -54,7 +54,7 @@
     "cover": "https://i.ibb.co/V0b8t30f/pexels-morteza-ghanbari-1497777-19411832.jpg",
     "title": "JavaScript Best Practices",
     "author": "Sophia Carter",
-    "author_img": "https://source.unsplash.com/50x50/?woman,developer",
+    "author_img": "../src/images/girl2.jpg",
     "posted_date": "2025-02-17",
     "reading_time": 6,
     "hashtags": ["#JavaScript", "#WebDev", "#BestPractices"]
@@ -64,7 +64,7 @@
     "cover": "https://i.ibb.co/tw18bXHv/pexels-nicholas-garman-2492577-4107723.jpg",
     "title": "Understanding Cybersecurity in 2025",
     "author": "Daniel Lee",
-    "author_img": "https://source.unsplash.com/50x50/?man,cybersecurity",
+    "author_img": "../src/images/girl2.jpg",
     "posted_date": "2025-02-18",
     "reading_time": 11,
     "hashtags": ["#Cybersecurity", "#Hacking", "#Privacy"]
@@ -74,7 +74,7 @@
     "cover": "https://i.ibb.co/Q7MWXNYx/pexels-one-click-445040244-30678525.jpg",
     "title": "The Rise of Blockchain Technology",
     "author": "Olivia Martinez",
-    "author_img": "https://source.unsplash.com/50x50/?woman,tech",
+    "author_img": "../src/images/girl2.jpg",
     "posted_date": "2025-02-19",
     "reading_time": 9,
     "hashtags": ["#Blockchain", "#Crypto", "#Web3"]
